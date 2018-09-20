@@ -1,0 +1,12 @@
+a {
+  color: #00aad9;
+}
+
+a:hover {
+  color: #00aad9;
+}
+
+body {
+  color: #464646;
+  font-family: -apple-system, BlinkMacSystemFont, Verdana, Tahoma, sans-serif;
+}
